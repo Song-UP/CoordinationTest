@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="behavior_sample_title">com.song.songup.coordinationtest.behavior.recycles.SampleTitleBehavior</string>
+
+    <string name="behavior_sample_header">com.song.songup.coordinationtest.behavior.recycles.SampleHeaderBehavior</string>
+    <string name="behavior_recyclerview">com.song.songup.coordinationtest.behavior.recycles.RecyclerViewBehavior</string>
+
+    <string name="img_behavior">com.song.songup.coordinationtest.behavior.netscroll.IvScaleBehavior</string>
+    <string name="rc_behavior">com.song.songup.coordinationtest.behavior.netscroll.RCBehivion</string>
+
+
+</resources>
